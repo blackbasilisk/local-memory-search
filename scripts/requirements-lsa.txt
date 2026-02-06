@@ -1,0 +1,4 @@
+-r requirements-core.txt
+scikit-learn>=1.4
+scipy>=1.11
+joblib>=1.3

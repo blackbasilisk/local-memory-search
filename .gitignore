@@ -1,0 +1,15 @@
+﻿# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local indexes/artifacts (should not live in the repo, but ignore just in case)
+*.faiss
+chunks.json
+lsa-vectorizer.joblib
+lsa-svd.joblib
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+# Default (recommended): light, offline semantic-ish search backend (LSA)
+-r requirements-lsa.txt
+
+# Optional heavier neural embedding backend:
+#   pip install -r scripts/requirements-sentence-transformers.txt
